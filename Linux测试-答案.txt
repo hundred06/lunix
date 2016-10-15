@@ -1,0 +1,42 @@
+1:文件
+2:644 , 目录
+3:Ctrl+c
+4:底行模式
+5:10,4,1,3
+6:etc
+7:kill
+8:ps -ef
+9:管道符
+10:chmod a+x
+11:ssh
+12:gzip
+13:Esc
+14:tar -czvf wang.tar.gz -C /home
+15:输出,标准输入
+16:rm -rf
+17:mv , 改名
+19:useradd
+20:sbin
+21:halt
+22:C 
+23:D
+24:D
+25:B
+26:D
+27:D
+28:dev
+29:B
+30:A
+31:D
+32:C 
+33:A
+34:D >
+35:D
+36:D
+37:C 
+38:D
+39:BD
+40:A
+41:D
+42:A
+43:A
